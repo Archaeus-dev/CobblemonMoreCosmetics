@@ -1,0 +1,9 @@
+{
+  "pokemon": ["carbink"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:kings_rock",
+      "aspects": ["royal"]
+    }
+  ]
+}

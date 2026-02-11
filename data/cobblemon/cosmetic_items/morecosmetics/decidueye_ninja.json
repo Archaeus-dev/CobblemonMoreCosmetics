@@ -1,0 +1,9 @@
+{
+  "pokemon": ["decidueye"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:blue_wool",
+      "aspects": ["ninja"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["lucario"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:covert_cloak",
+      "aspects": ["covert"]
+    }
+  ]
+}

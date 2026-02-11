@@ -1,0 +1,9 @@
+{
+  "pokemon": ["weavile"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:snow_block",
+      "aspects": ["skier"]
+    }
+  ]
+}

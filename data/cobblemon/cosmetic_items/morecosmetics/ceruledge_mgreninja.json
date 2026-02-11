@@ -1,0 +1,9 @@
+{
+  "pokemon": ["ceruledge"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:mystic_water",
+      "aspects": ["mgreninja"]
+    }
+  ]
+}

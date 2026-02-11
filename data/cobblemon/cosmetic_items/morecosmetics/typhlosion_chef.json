@@ -1,0 +1,9 @@
+{
+  "pokemon": ["typhlosion"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:white_wool",
+      "aspects": ["chef"]
+    }
+  ]
+}

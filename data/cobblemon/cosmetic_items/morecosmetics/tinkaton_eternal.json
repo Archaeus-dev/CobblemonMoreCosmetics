@@ -1,0 +1,9 @@
+{
+  "pokemon": ["tinkaton"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:wither_rose",
+      "aspects": ["eternal"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["drampa"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:lantern",
+      "aspects": ["newyear"]
+    }
+  ]
+}

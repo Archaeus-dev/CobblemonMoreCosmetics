@@ -1,0 +1,9 @@
+{
+  "pokemon": ["moltres galarian=false"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:copper_ingot",
+      "aspects": ["steampunk"]
+    }
+  ]
+}

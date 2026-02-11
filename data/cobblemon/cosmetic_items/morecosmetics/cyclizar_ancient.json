@@ -1,0 +1,9 @@
+{
+  "pokemon": ["cyclizar"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:red_wool",
+      "aspects": ["ancient"]
+    }
+  ]
+}

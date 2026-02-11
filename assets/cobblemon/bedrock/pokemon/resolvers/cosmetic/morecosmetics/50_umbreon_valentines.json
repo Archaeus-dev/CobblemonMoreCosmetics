@@ -1,0 +1,36 @@
+{
+    "species": "cobblemon:umbreon",
+    "order": 50,
+  "variations": [
+    {
+      "aspects": [
+        "valentines"
+      ],
+      "model": "cobblemon:umbreon_valentines.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/umbreon/umbreon_valentines.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/umbreon/umbreon_valentines_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "valentines"
+      ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/umbreon/umbreon_valentines_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/umbreon/umbreon_valentines_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

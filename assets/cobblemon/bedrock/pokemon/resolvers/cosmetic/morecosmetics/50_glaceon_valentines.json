@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:glaceon",
+    "order": 50,
+  "variations": [
+    {
+      "aspects": [
+        "valentines"
+      ],
+      "model": "cobblemon:glaceon_valentines.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/glaceon/glaceon_valentines.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "valentines"
+      ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/glaceon/glaceon_valentines_shiny.png"
+    }
+  ]
+}

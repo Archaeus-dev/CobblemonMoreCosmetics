@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 50,
+  "variations": [
+    {
+      "aspects": [ "icedragon" ],
+      "poser": "cobblemon:gardevoir_icedragon",
+      "model": "cobblemon:gardevoir_icedragon.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/gardevoir/gardevoir_icedragon.png"
+    },
+    {
+      "aspects": [ "shiny", "icedragon" ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/gardevoir/gardevoir_icedragon_shiny.png"
+    }
+  ]
+}

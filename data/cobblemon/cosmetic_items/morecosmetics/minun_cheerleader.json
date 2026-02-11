@@ -1,0 +1,9 @@
+{
+  "pokemon": ["minun"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:lime_wool",
+      "aspects": ["cheerleader"]
+    }
+  ]
+}

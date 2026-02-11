@@ -1,0 +1,9 @@
+{
+  "pokemon": ["latios"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:iron_ingot",
+      "aspects": ["fighter"]
+    }
+  ]
+}

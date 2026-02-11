@@ -1,0 +1,9 @@
+{
+  "pokemon": ["wooper"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:emerald",
+      "aspects": ["dignified"]
+    }
+  ]
+}

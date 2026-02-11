@@ -1,0 +1,9 @@
+{
+  "pokemon": ["mewtwo"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:snow_block",
+      "aspects": ["boundary"]
+    }
+  ]
+}

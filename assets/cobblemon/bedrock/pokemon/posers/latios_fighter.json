@@ -1,0 +1,45 @@
+{
+  "portraitScale": 1.65,
+  "portraitTranslation": [-1.6, 0.54, 0],
+  "profileScale": 0.51,
+  "profileTranslation": [0.05, 0.99, -10],
+  "rootBone": "latios_fighter",
+  "firstPersonCameraOffset": {
+    "seat_1": [0, 0.45, 0]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [0, 0.25, 0],
+    "seat_1_reverse": [0, 0.25, 0]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [0, 0.25, 0],
+    "seat_1_reverse": [0, 0.25, 0]
+  },
+  "animations": {
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [ "PORTRAIT", "PROFILE", "STAND", "NONE" ],
+      "isBattle": false,
+      "animations": [ "q.look('head')", "q.bedrock('latios_fighter', 'ground_idle')" ],
+      "quirks": [
+        "q.bedrock_quirk('latios_fighter', 'blink')"
+      ]
+    },
+    "fly": {
+      "poseName": "fly",
+      "poseTypes": [
+        "FLY",
+        "SWIM"
+      ],
+      "animations": [
+        "q.pitch_tilt('body')",
+        "q.look('head', 1, 1, 20, -90, 60, -37)",
+        "q.bedrock('latios_fighter', 'arms_tucked')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('latios_fighter', 'blink')"
+      ]
+    }
+  }
+}

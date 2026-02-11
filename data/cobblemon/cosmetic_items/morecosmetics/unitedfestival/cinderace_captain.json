@@ -1,0 +1,9 @@
+{
+  "pokemon": ["cinderace"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:black_wool",
+      "aspects": ["captain"]
+    }
+  ]
+}

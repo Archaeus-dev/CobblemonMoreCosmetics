@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:mewtwo",
+    "order": 50,
+    "variations": [
+        {
+          "aspects": [
+            "boundary"
+          ],
+            "poser": "cobblemon:mewtwo_boundary",
+            "model": "cobblemon:mewtwo_boundary.geo",
+            "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/mewtwo/mewtwo_boundary.png"
+        },
+        {
+            "aspects": [
+                "shiny",
+                "boundary"
+            ],
+            "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/mewtwo/mewtwo_boundary_shiny.png"
+        }
+    ]
+}

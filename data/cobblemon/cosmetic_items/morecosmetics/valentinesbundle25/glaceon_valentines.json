@@ -1,0 +1,9 @@
+{
+  "pokemon": ["glaceon"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:love_sweet",
+      "aspects": ["valentines"]
+    }
+  ]
+}
