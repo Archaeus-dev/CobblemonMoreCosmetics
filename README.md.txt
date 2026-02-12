@@ -38,6 +38,10 @@ Ninja Style Decidueye - Give Decidueye a Covert Cloak OR use command /pokegive d
 
 Mega Greninja Style Ceruledge - Give Ceruledge a Mystic Water OR use command /pokegive ceruledge aspect=mgreninja
 
+Fighter Style Latios - Give Latios an Iron Ingot or use command /pokegive latios aspect=fighter
+
+Legend Style Grumpig - Give Grumpig a Potato or use command /pokegive grumpig aspect=legend RIP Technoblade
+
 WINTER BUNDLE 2026
 
 Holiday Style Vulpix - Give Vulpix a Snow Block OR use command /pokegive vulpix aspect=holiday (ALOLAN FORM COMPAT)
@@ -66,9 +70,19 @@ Steampunk Style Ho-oh - Give Ho-oh a Gold Ingot OR use command /pokegive hooh as
 
 Ghost Style Zoroark - Give Zoroark a Spell Tag OR use command /pokegive zoroark aspect=ghost
 
+VALENTINES BUNDLE
+
+Valentines Style Eevee - Give Eevee a Love Sweet OR use command /pokegive eevee aspect=valentines
+
+Valentines Style Vaporeon - Give Vaporeon a Love Sweet OR use command /pokegive vaporeon aspect=valentines
+
+Valentines Style Jolteon - Give Jolteon a Love Sweet OR use command /pokegive jolteon aspect=valentines
+
+Valentines Style Flareon - Give Flareon a Love Sweet OR use command /pokegive flareon aspect=valentines
+
 --------------------
 
-List of Trainer Cosmetics
+List of Trainer Cosmetics (INSTALL RECIPEPACK FOR SURVIVAL RECIPES)
 
 Alola Cap - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=1] 
 
@@ -78,7 +92,9 @@ Mystical Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_m
 
 Baneful Fox Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=5(6 for shiny)]
 
-Umbreon Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=7(8 for shiny)]  
+Umbreon Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=7(8 for shiny)] 
+
+Mimikyu Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=9(10 for shiny)] 
 
 --------------------
 

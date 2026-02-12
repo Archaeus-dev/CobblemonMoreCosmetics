@@ -1,0 +1,9 @@
+{
+  "pokemon": ["grumpig"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft_potato",
+      "aspects": ["legend"]
+    }
+  ]
+}
