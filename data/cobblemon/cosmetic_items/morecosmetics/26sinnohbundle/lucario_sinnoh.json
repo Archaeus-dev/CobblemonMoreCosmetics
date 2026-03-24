@@ -1,0 +1,9 @@
+{
+  "pokemon": ["lucario"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:fighting_gem",
+      "aspects": ["sinnoh"]
+    }
+  ]
+}

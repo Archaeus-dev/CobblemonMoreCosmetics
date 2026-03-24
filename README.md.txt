@@ -4,7 +4,7 @@ Made by Archaeusdev
 
 This is a Cobblemon Cosmetics addon!
 
-Put the files into your datapacks and resourcepacks folder to activate it!
+Put the zip into your datapacks and resourcepacks folder to activate it!
 
 --------------------
 
@@ -38,11 +38,21 @@ Ninja Style Decidueye - Give Decidueye a Covert Cloak OR use command /pokegive d
 
 Mega Greninja Style Ceruledge - Give Ceruledge a Mystic Water OR use command /pokegive ceruledge aspect=mgreninja
 
-Fighter Style Latios - Give Latios an Iron Ingot or use command /pokegive latios aspect=fighter
+Fighter Style Latios - Give Latios an Iron Ingot OR use command /pokegive latios aspect=fighter
 
-Legend Style Grumpig - Give Grumpig a Potato or use command /pokegive grumpig aspect=legend RIP Technoblade
+Legend Style Grumpig - Give Grumpig a Potato OR use command /pokegive grumpig aspect=legend RIP Technoblade
 
-WINTER BUNDLE 2026
+Chef Style Snorlax - Give Snorlax a White Wool OR use command /pokegive snorlax aspect=chef
+
+Warmonger Style Incineroar - Give Incineroar an Iron Ingot OR use command /pokegive incineroar aspect=warmonger
+
+Uva Style Smoliv - Give Smoliv a Sweet Berries OR use command /pokegive smoliv aspect=uva
+
+Knight Style Charizard - Give Charizard an Iron Ingot OR use command /pokegive charizard aspect=knight
+
+Yellow Hat Style Pichu Line - Give any member of the Pichu line a Yellow Wool OR use command /pokegive pichu/pikachu/raichu aspect=yellowhat
+
+WINTER BUNDLE 2025
 
 Holiday Style Vulpix - Give Vulpix a Snow Block OR use command /pokegive vulpix aspect=holiday (ALOLAN FORM COMPAT)
 
@@ -70,7 +80,7 @@ Steampunk Style Ho-oh - Give Ho-oh a Gold Ingot OR use command /pokegive hooh as
 
 Ghost Style Zoroark - Give Zoroark a Spell Tag OR use command /pokegive zoroark aspect=ghost
 
-VALENTINES BUNDLE
+VALENTINES BUNDLE 2026
 
 Valentines Style Eevee - Give Eevee a Love Sweet OR use command /pokegive eevee aspect=valentines
 
@@ -79,6 +89,8 @@ Valentines Style Vaporeon - Give Vaporeon a Love Sweet OR use command /pokegive 
 Valentines Style Jolteon - Give Jolteon a Love Sweet OR use command /pokegive jolteon aspect=valentines
 
 Valentines Style Flareon - Give Flareon a Love Sweet OR use command /pokegive flareon aspect=valentines
+
+Valentines Style Roserade - Give Roserade a Love Sweet OR use command /pokegive roserade aspect=valentines
 
 --------------------
 
@@ -95,6 +107,8 @@ Baneful Fox Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custo
 Umbreon Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=7(8 for shiny)] 
 
 Mimikyu Mask - Use command /give @s minecraft:carved_pumpkin[minecraft:custom_model_data=9(10 for shiny)] 
+
+Yellow Hat - Use command /give @s  minecraft:carved_pumpkin[minecraft:custom_model_data=11] 
 
 --------------------
 

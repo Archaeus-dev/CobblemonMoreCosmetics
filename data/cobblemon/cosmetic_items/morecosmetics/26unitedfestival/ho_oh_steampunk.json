@@ -1,0 +1,9 @@
+{
+  "pokemon": ["hooh"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:gold_ingot",
+      "aspects": ["steampunk"]
+    }
+  ]
+}

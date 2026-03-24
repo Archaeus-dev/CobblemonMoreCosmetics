@@ -1,0 +1,9 @@
+{
+  "pokemon": ["garchomp"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:dragon_gem",
+      "aspects": ["sinnoh"]
+    }
+  ]
+}

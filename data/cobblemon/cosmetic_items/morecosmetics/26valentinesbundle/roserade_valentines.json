@@ -1,0 +1,9 @@
+{
+  "pokemon": ["roserade"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:love_sweet",
+      "aspects": ["valentines"]
+    }
+  ]
+}

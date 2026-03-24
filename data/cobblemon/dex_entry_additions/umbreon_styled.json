@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:umbreon",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "aurora"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["golisopod"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:snow_block",
+      "aspects": ["iceraider"]
+    }
+  ]
+}

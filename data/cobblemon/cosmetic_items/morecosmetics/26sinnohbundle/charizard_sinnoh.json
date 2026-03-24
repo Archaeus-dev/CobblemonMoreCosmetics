@@ -1,0 +1,9 @@
+{
+  "pokemon": ["charizard"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:fire_gem",
+      "aspects": ["sinnoh"]
+    }
+  ]
+}

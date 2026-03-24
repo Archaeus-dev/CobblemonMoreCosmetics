@@ -1,0 +1,9 @@
+{
+  "pokemon": ["mimikyu"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:orange_wool",
+      "aspects": ["pawmi"]
+    }
+  ]
+}

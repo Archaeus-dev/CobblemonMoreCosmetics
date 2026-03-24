@@ -1,0 +1,9 @@
+{
+  "pokemon": ["decidueye"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:grass_gem",
+      "aspects": ["sinnoh"]
+    }
+  ]
+}

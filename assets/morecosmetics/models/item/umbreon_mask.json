@@ -139,7 +139,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [15, 180, 0],
+			"rotation": [15, -180, 0],
 			"translation": [0, -2.25, 0]
 		},
 		"head": {
@@ -150,7 +150,7 @@
 			"translation": [0, -3, 0]
 		},
 		"on_shelf": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["gardevoir"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:fairy_gem",
+      "aspects": ["sinnoh"]
+    }
+  ]
+}

@@ -1,21 +1,36 @@
 {
     "species": "cobblemon:latios",
     "order": 50,
-    "variations": [
-        {
-          "aspects": [
-            "fighter"
-          ],
-            "poser": "cobblemon:latios_fighter",
-            "model": "cobblemon:latios_fighter.geo",
-            "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter.png"
-        },
-        {
-            "aspects": [
-                "shiny",
-                "fighter"
-            ],
-            "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter_shiny.png"
-        }
-    ]
+  "variations": [
+    {
+      "aspects": [
+        "fighter"
+      ],
+      "poser": "cobblemon:latios_fighter",
+      "model": "cobblemon:latios_fighter.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "fighter"
+      ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter_shiny.png"
+    },
+    {
+      "aspects": [
+        "fighter",
+        "altcolor"
+      ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter_altcolor.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "fighter",
+        "altcolor"
+      ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter_shiny_altcolor.png"
+    }
+  ]
 }

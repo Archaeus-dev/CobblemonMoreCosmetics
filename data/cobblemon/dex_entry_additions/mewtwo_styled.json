@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:mewtwo",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "boundary"
+      ]
+    }
+  ]
+}

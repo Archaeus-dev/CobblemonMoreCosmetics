@@ -1,0 +1,9 @@
+{
+  "pokemon": ["pichu", "pikachu", "raichu"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:yellow_wool",
+      "aspects": ["yellowhat"]
+    }
+  ]
+}

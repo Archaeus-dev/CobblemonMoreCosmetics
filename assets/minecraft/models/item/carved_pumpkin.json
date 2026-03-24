@@ -37,9 +37,13 @@
       "predicate": { "custom_model_data": 9 },
       "model": "morecosmetics:item/mimikyu_mask"
       },
-      {
-      "predicate": { "custom_model_data":  10},
+    {
+      "predicate": { "custom_model_data": 10 },
       "model": "morecosmetics:item/mimikyu_mask_shiny"
-      }
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "morecosmetics:item/yellow_hat"
+    }
   ]
 }

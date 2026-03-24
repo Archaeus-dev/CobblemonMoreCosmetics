@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:vulpix",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "holiday"
+      ]
+    }
+  ]
+}

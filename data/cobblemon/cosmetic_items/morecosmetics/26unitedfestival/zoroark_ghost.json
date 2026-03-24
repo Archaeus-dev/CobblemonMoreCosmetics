@@ -1,0 +1,9 @@
+{
+  "pokemon": ["zoroark hisuian_false"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:spell_tag",
+      "aspects": ["ghost"]
+    }
+  ]
+}

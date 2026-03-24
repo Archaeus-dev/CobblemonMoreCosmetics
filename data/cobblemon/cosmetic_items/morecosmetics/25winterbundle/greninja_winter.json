@@ -1,0 +1,13 @@
+{
+  "pokemon": ["greninja"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:snow_block",
+      "aspects": [ "winter" ]
+    },
+    {
+      "consumedItem": "minecraft:powder_snow_bucket",
+      "aspects": [ "winter", "altcolor" ]
+    }
+  ]
+}

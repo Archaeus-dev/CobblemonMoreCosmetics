@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:minun",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "cheerleader"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:sawk",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "festival"
+      ]
+    }
+  ]
+}

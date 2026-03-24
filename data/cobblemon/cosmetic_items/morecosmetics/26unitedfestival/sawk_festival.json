@@ -1,0 +1,9 @@
+{
+  "pokemon": ["sawk"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:black_belt",
+      "aspects": ["festival"]
+    }
+  ]
+}

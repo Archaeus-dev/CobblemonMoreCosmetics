@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:vaporeon",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "valentines"
+      ]
+    }
+  ]
+}

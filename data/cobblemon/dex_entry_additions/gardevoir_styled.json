@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:gardevoir",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "icedragon"
+      ]
+    }
+  ]
+}

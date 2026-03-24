@@ -1,0 +1,13 @@
+{
+  "pokemon": ["gardevoir"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:snow_block",
+      "aspects": [ "icedragon" ]
+    },
+    {
+      "consumedItem": "minecraft:powder_snow_bucket",
+      "aspects": [ "icedragon", "altcolor" ]
+    }
+  ]
+}

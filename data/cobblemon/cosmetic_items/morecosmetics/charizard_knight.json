@@ -1,0 +1,9 @@
+{
+  "pokemon": ["charizard"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:iron_helmet",
+      "aspects": ["knight"]
+    }
+  ]
+}

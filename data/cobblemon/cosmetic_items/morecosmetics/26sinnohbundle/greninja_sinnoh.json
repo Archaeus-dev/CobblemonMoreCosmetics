@@ -1,0 +1,9 @@
+{
+  "pokemon": ["greninja"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:water_gem",
+      "aspects": ["sinnoh"]
+    }
+  ]
+}

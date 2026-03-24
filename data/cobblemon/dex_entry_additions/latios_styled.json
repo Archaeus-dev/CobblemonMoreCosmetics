@@ -1,0 +1,12 @@
+{
+  "entryId": "cobblemon:latios",
+  "variations": [
+    {
+        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "aspects": [
+          "",
+        "fighter"
+      ]
+    }
+  ]
+}

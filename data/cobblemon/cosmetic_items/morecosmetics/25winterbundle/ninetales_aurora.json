@@ -1,0 +1,16 @@
+{
+  "pokemon": ["ninetales"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:star_sweet",
+      "aspects": [ "aurora" ]
+    },
+    {
+      "consumedItem": "minecraft:nether_star",
+      "aspects": [
+        "aurora",
+        "altcolor"
+      ]
+    }
+  ]
+}

@@ -11,6 +11,14 @@
     {
       "aspects": [ "shiny", "icedragon" ],
       "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/gardevoir/gardevoir_icedragon_shiny.png"
+    },
+    {
+      "aspects": [ "icedragon", "altcolor" ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/gardevoir/gardevoir_icedragon_altcolor.png"
+    },
+    {
+      "aspects": [ "shiny", "icedragon", "altcolor" ],
+      "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/gardevoir/gardevoir_icedragon_shiny_altcolor.png"
     }
   ]
 }

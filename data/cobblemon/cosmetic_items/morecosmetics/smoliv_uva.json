@@ -1,0 +1,9 @@
+{
+  "pokemon": ["smoliv"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:sweet_berries",
+      "aspects": ["uva"]
+    }
+  ]
+}
