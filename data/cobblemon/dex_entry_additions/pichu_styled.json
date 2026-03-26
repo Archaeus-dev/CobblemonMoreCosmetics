@@ -2,9 +2,9 @@
   "entryId": "cobblemon:pichu",
   "variations": [
     {
-        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
       "aspects": [
-          "",
+        "",
         "yellowhat"
       ]
     }
