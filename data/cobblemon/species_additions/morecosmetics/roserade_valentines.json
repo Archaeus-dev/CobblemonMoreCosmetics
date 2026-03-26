@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:roserade",
+  "forms": [
+    {
+      "name": "Valentines",
+      "aspects": [ "valentines" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:ninetales",
+  "forms": [
+    {
+      "name": "Aurora",
+      "aspects": [ "alolan", "aurora" ]
+    }
+  ]
+}

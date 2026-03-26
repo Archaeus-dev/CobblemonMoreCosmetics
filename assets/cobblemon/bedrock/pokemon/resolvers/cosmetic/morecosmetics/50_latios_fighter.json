@@ -6,7 +6,6 @@
       "aspects": [
         "fighter"
       ],
-      "poser": "cobblemon:latios_fighter",
       "model": "cobblemon:latios_fighter.geo",
       "texture": "cobblemon:textures/pokemon/cosmetic/morecosmetics/latios/latios_fighter.png"
     },

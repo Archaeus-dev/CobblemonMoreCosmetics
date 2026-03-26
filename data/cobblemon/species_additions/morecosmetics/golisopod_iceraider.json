@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:golisopod",
+  "forms": [
+    {
+      "name": "Iceraider",
+      "aspects": [ "iceraider" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:drampa",
+  "forms": [
+    {
+      "name": "Newyear",
+      "aspects": [ "newyear" ]
+    }
+  ]
+}

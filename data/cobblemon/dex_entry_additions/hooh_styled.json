@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:hooh",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "steampunk"
-      ]
+      "displayForm": "Steampunk",
+      "unlockForms": ["Steampunk"]
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:mimikyu",
+  "forms": [
+    {
+      "name": "Pawmi",
+      "aspects": [ "pawmi" ]
+    }
+  ]
+}

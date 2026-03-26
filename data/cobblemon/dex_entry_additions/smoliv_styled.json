@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:smoliv",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "uva"
-      ]
+      "displayForm": "Uva",
+      "unlockForms": ["Uva"]
     }
   ]
 }

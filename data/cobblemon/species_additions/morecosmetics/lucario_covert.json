@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:lucario",
+  "forms": [
+    {
+      "name": "Covert",
+      "aspects": [ "covert" ]
+    }
+  ]
+}

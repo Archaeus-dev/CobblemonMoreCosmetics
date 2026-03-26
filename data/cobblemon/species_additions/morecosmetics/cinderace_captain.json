@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:cinderace",
+  "forms": [
+    {
+      "name": "Captain",
+      "aspects": [ "captain" ]
+    }
+  ]
+}

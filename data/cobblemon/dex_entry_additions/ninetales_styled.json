@@ -1,13 +1,14 @@
 {
   "entryId": "cobblemon:ninetales",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "aurora",
-        "holiday"
-      ]
+      "displayForm": "Aurora",
+      "unlockForms": [ "Aurora" ]
+    },
+
+    {
+      "displayForm": "Holiday",
+      "unlockForms": ["Holiday"]
     }
   ]
 }

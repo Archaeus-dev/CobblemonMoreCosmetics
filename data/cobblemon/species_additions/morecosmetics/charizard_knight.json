@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:charizard",
+  "forms": [
+    {
+      "name": "Knight",
+      "aspects": [ "knight" ]
+    }
+  ]
+}

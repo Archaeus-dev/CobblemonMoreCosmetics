@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:mimikyu",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "pawmi"
-      ]
+      "displayForm": "Pawmi",
+      "unlockForms": ["Pawmi"]
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["mewtwo"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:covert_cloak",
+      "aspects": [ "covert" ]
+    }
+  ]
+}

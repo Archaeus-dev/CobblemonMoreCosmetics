@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:ninetales",
+  "forms": [
+    {
+      "name": "Holiday",
+      "aspects": [ "holiday" ]
+    },
+    {
+      "name": "Holidayalolan",
+      "aspects": [ "alolan", "holiday" ]
+    }
+  ]
+}

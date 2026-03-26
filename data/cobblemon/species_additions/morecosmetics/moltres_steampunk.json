@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:moltres",
+  "forms": [
+    {
+      "name": "Steampunk",
+      "aspects": [ "steampunk" ]
+    }
+  ]
+}

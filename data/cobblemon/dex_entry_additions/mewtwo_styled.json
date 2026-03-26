@@ -1,12 +1,14 @@
 {
   "entryId": "cobblemon:mewtwo",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "boundary"
-      ]
+      "displayForm": "Boundary",
+      "unlockForms": [ "Boundary" ]
+    },
+
+    {
+      "displayForm": "Covert",
+      "unlockForms": [ "Covert" ]
     }
   ]
 }

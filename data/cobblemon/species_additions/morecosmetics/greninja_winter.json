@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:greninja",
+  "forms": [
+    {
+      "name": "Winter",
+      "aspects": [ "winter" ]
+    }
+  ]
+}

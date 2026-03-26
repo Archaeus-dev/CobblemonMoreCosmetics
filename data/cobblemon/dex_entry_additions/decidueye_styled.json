@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:decidueye",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "ninja"
-      ]
+      "displayForm": "Ninja",
+      "unlockForms": ["Ninja"]
     }
   ]
 }

@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:weavile",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "skier"
-      ]
+      "displayForm": "Skier",
+      "unlockForms": ["Skier"]
     }
   ]
 }

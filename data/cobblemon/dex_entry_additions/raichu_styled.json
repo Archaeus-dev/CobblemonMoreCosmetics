@@ -1,12 +1,13 @@
 {
   "entryId": "cobblemon:raichu",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "yellowhat"
-      ]
+      "displayForm": "Yellowhat",
+      "unlockForms": [ "Yellowhat" ]
+    },
+    {
+        "displayForm": "Yellowhatalolan",
+        "unlockForms": [ "Yellowhatalolan" ]
     }
   ]
 }

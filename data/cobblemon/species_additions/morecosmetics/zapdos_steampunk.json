@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:zapdos",
+  "forms": [
+    {
+      "name": "Steampunk",
+      "aspects": [ "steampunk" ]
+    }
+  ]
+}

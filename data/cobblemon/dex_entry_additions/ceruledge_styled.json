@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:ceruledge",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "mgreninja"
-      ]
+      "displayForm": "Mgreninja",
+      "unlockForms": ["Mgreninja"]
     }
   ]
 }

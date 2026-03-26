@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:raichu",
+  "forms": [
+    {
+      "name": "Yellowhat",
+      "aspects": [ "yellowhat" ]
+    },
+    {
+      "name": "Yellowhatalolan",
+      "aspects": [ "yellowhat", "alolan" ]
+    }
+  ]
+}

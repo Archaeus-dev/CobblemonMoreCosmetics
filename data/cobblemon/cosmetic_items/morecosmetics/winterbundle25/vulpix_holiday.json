@@ -1,9 +1,0 @@
-{
-  "pokemon": ["vulpix"],
-  "cosmeticItems": [
-    {
-      "consumedItem": "minecraft:snow_block",
-      "aspects": ["holiday"]
-    }
-  ]
-}

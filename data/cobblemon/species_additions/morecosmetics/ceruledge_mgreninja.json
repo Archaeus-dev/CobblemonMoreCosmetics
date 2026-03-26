@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:ceruledge",
+  "forms": [
+    {
+      "name": "Mgreninja",
+      "aspects": [ "mgreninja" ]
+    }
+  ]
+}

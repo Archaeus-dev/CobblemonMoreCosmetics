@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:grumpig",
+  "forms": [
+    {
+      "name": "Legend",
+      "aspects": [ "legend" ]
+    }
+  ]
+}

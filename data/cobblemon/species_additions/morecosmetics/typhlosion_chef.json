@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:typhlosion",
+  "forms": [
+    {
+      "name": "Chef",
+      "aspects": [ "chef" ]
+    }
+  ]
+}

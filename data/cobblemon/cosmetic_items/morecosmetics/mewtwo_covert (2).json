@@ -1,0 +1,9 @@
+{
+  "pokemon": ["magcargo"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:iron_helmet",
+      "aspects": [ "racer" ]
+    }
+  ]
+}

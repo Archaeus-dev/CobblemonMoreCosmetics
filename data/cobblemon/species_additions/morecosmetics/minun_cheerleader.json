@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:minun",
+  "forms": [
+    {
+      "name": "Cheerleader",
+      "aspects": [ "cheerleader" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:carbink",
+  "forms": [
+    {
+      "name": "Royal",
+      "aspects": [ "royal" ]
+    }
+  ]
+}

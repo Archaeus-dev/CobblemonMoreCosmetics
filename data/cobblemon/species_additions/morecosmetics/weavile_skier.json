@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:weavile",
+  "forms": [
+    {
+      "name": "Skier",
+      "aspects": [ "skier" ]
+    }
+  ]
+}

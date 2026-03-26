@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:wooper",
+  "forms": [
+    {
+      "name": "Dignified",
+      "aspects": [ "dignified" ]
+    },
+    {
+      "name": "Dignifiedpaldean",
+      "aspects": [ "paldean", "dignified" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:throh",
+  "forms": [
+    {
+      "name": "Festival",
+      "aspects": [ "festival" ]
+    }
+  ]
+}

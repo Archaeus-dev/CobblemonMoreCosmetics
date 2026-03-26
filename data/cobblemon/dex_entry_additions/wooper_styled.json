@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:wooper",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "dignified"
-      ]
+      "displayForm": "Dignified",
+      "unlockForms": ["Dignified"]
     }
   ]
 }

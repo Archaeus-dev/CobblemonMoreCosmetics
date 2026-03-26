@@ -1,7 +1,19 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\cobblemon",
+    "\\assets\\cobblemon\\bedrock",
+    "\\assets\\cobblemon\\bedrock\\pokemon",
+    "\\assets\\cobblemon\\bedrock\\pokemon\\resolvers",
+    "\\assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic",
+    "\\assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics",
+    "\\assets\\cobblemon\\textures",
+    "\\assets\\cobblemon\\textures\\pokemon",
+    "\\assets\\cobblemon\\textures\\pokemon\\cosmetic",
+    "\\assets\\cobblemon\\textures\\pokemon\\cosmetic\\morecosmetics",
+    "\\assets\\cobblemon\\textures\\pokemon\\cosmetic\\morecosmetics\\pikachu"
   ],
-  "SelectedNode": "\\C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics",
+  "SelectedNode": "\\assets\\morecosmetics\\lang\\en_us.json",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:zoroark",
+  "forms": [
+    {
+      "name": "Ghost",
+      "aspects": [ "ghost" ]
+    }
+  ]
+}

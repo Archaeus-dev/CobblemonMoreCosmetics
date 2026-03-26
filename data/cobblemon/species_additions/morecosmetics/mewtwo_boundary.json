@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:mewtwo",
+  "forms": [
+    {
+      "name": "Boundary",
+      "aspects": [ "boundary" ]
+    }
+  ]
+}

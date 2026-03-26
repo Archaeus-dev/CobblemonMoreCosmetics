@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:magcargo",
+  "forms": [
+    {
+      "name": "Racer",
+      "aspects": [ "racer" ]
+    }
+  ]
+}

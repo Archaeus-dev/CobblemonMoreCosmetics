@@ -1,9 +1,0 @@
-{
-  "pokemon": ["gardevoir"],
-  "cosmeticItems": [
-    {
-      "consumedItem": "minecraft:snow_block",
-      "aspects": ["icedragon"]
-    }
-  ]
-}

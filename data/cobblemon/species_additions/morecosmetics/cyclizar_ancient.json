@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:cyclizar",
+  "forms": [
+    {
+      "name": "Ancient",
+      "aspects": [ "ancient" ]
+    }
+  ]
+}

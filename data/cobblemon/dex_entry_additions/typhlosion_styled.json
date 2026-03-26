@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:typhlosion",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "chef"
-      ]
+      "displayForm": "Chef",
+      "unlockForms": ["Chef"]
     }
   ]
 }

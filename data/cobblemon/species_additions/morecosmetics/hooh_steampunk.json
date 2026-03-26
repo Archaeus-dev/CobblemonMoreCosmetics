@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:hooh",
+  "forms": [
+    {
+      "name": "Steampunk",
+      "aspects": [ "steampunk" ]
+    }
+  ]
+}

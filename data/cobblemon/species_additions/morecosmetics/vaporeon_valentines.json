@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:vaporeon",
+  "forms": [
+    {
+      "name": "Valentines",
+      "aspects": [ "valentines" ]
+    }
+  ]
+}

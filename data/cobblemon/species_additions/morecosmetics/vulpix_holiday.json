@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:vulpix",
+  "forms": [
+    {
+      "name": "Holiday",
+      "aspects": [ "holiday" ]
+    }
+  ]
+}

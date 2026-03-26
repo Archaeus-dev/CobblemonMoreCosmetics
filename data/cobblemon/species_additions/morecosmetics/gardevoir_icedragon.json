@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:gardevoir",
+  "forms": [
+    {
+      "name": "Icedragon",
+      "aspects": [ "icedragon" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:eevee",
+  "forms": [
+    {
+      "name": "Valentines",
+      "aspects": [ "valentines" ]
+    }
+  ]
+}

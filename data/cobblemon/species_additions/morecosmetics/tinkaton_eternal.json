@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:tinkaton",
+  "forms": [
+    {
+      "name": "Eternal",
+      "aspects": [ "eternal" ]
+    }
+  ]
+}

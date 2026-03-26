@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:plusle",
+  "forms": [
+    {
+      "name": "Cheerleader",
+      "aspects": [ "cheerleader" ]
+    }
+  ]
+}

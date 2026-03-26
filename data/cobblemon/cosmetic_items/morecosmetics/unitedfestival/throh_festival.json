@@ -1,9 +1,0 @@
-{
-  "pokemon": ["throh"],
-  "cosmeticItems": [
-    {
-      "consumedItem": "cobblemon:black_belt",
-      "aspects": ["festival"]
-    }
-  ]
-}

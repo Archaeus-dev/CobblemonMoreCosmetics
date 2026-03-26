@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:jolteon",
+  "forms": [
+    {
+      "name": "Valentines",
+      "aspects": [ "valentines" ]
+    }
+  ]
+}

@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:gardevoir",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "icedragon"
-      ]
+      "displayForm": "Icedragon",
+      "unlockForms": ["Icedragon"]
     }
   ]
 }

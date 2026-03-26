@@ -1,9 +1,0 @@
-{
-  "target": "cobblemon:articuno",
-  "forms": [
-    {
-      "name": "Steampunk",
-      "aspects": ["steampunk"]
-    }
-  ]
-}

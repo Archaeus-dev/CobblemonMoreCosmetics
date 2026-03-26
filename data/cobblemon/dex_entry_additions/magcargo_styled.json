@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:magcargo",
+  "forms": [
+    {
+      "displayForm": "Racer",
+      "unlockForms": ["Racer"]
+    }
+  ]
+}

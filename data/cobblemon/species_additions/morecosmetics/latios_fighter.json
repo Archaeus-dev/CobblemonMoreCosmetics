@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:latios",
+  "forms": [
+    {
+      "name": "Fighter",
+      "aspects": [ "fighter" ]
+    }
+  ]
+}

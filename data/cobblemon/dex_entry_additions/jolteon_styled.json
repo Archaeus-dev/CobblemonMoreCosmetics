@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:jolteon",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "valentines"
-      ]
+      "displayForm": "Valentines",
+      "unlockForms": ["Valentines"]
     }
   ]
 }

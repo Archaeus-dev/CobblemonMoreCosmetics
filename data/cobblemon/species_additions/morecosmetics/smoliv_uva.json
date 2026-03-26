@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:smoliv",
+  "forms": [
+    {
+      "name": "Uva",
+      "aspects": [ "uva" ]
+    }
+  ]
+}

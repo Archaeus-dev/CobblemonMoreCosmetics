@@ -1,9 +1,0 @@
-{
-  "pokemon": ["greninja"],
-  "cosmeticItems": [
-    {
-      "consumedItem": "minecraft:snow_block",
-      "aspects": ["winter"]
-    }
-  ]
-}

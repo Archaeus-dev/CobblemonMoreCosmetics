@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:umbreon",
+  "forms": [
+    {
+      "name": "Aurora",
+      "aspects": [ "aurora" ]
+    }
+  ]
+}

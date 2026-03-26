@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:pichu",
+  "forms": [
+    {
+      "name": "Yellowhat",
+      "aspects": [ "yellowhat" ]
+    }
+  ]
+}

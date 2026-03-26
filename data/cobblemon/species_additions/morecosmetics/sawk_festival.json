@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:sawk",
+  "forms": [
+    {
+      "name": "Festival",
+      "aspects": [ "festival" ]
+    }
+  ]
+}

@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:cinderace",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "captain"
-      ]
+      "displayForm": "Captain",
+      "unlockForms": ["Captain"]
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\assets\\morecosmetics\\lang\\en_us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\morecosmetics\\lang\\en_us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics\\50_pikachu_yellowhat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics\\50_pikachu_yellowhat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\data\\cobblemon\\dex_entry_additions\\articuno_styled.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\cobblemon\\dex_entry_additions\\articuno_styled.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "en_us.json",
+              "DocumentMoniker": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\assets\\morecosmetics\\lang\\en_us.json",
+              "RelativeDocumentMoniker": "assets\\morecosmetics\\lang\\en_us.json",
+              "ToolTip": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\assets\\morecosmetics\\lang\\en_us.json",
+              "RelativeToolTip": "assets\\morecosmetics\\lang\\en_us.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T12:14:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "50_pikachu_yellowhat.json",
+              "DocumentMoniker": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics\\50_pikachu_yellowhat.json",
+              "RelativeDocumentMoniker": "assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics\\50_pikachu_yellowhat.json",
+              "ToolTip": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics\\50_pikachu_yellowhat.json",
+              "RelativeToolTip": "assets\\cobblemon\\bedrock\\pokemon\\resolvers\\cosmetic\\morecosmetics\\50_pikachu_yellowhat.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T12:09:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "articuno_styled.json",
+              "DocumentMoniker": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\data\\cobblemon\\dex_entry_additions\\articuno_styled.json",
+              "RelativeDocumentMoniker": "data\\cobblemon\\dex_entry_additions\\articuno_styled.json",
+              "ToolTip": "C:\\Users\\Mitch\\source\\repos\\Archaeus-dev\\CobblemonMoreCosmetics\\data\\cobblemon\\dex_entry_additions\\articuno_styled.json",
+              "RelativeToolTip": "data\\cobblemon\\dex_entry_additions\\articuno_styled.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T03:43:57.631Z"
             }
           ]
         }

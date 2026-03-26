@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:snorlax",
+  "forms": [
+    {
+      "name": "Chef",
+      "aspects": [ "chef" ]
+    }
+  ]
+}

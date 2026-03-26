@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:drampa",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "newyear"
-      ]
+      "displayForm": "Newyear",
+      "unlockForms": ["Newyear"]
     }
   ]
 }

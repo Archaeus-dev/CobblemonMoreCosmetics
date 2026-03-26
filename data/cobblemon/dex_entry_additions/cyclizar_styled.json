@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:cyclizar",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "ancient"
-      ]
+      "displayForm": "Ancient",
+      "unlockForms": ["Ancient"]
     }
   ]
 }

@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:zoroark",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "ghost"
-      ]
+      "displayForm": "Ghost",
+      "unlockForms": ["Ghost"]
     }
   ]
 }

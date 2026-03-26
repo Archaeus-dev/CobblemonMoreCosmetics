@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:latios",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "fighter"
-      ]
+      "displayForm": "Fighter",
+      "unlockForms": ["Fighter"]
     }
   ]
 }

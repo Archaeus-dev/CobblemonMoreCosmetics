@@ -1,9 +1,0 @@
-{
-  "pokemon": ["umbreon"],
-  "cosmeticItems": [
-    {
-      "consumedItem": "minecraft:snow_block",
-      "aspects": ["aurora"]
-    }
-  ]
-}

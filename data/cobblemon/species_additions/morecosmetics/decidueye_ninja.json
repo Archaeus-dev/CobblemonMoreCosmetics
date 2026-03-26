@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:decidueye",
+  "forms": [
+    {
+      "name": "Ninja",
+      "aspects": [ "ninja" ]
+    }
+  ]
+}

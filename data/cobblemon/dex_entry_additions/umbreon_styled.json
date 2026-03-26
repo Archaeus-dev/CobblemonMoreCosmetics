@@ -1,12 +1,9 @@
 {
   "entryId": "cobblemon:umbreon",
-  "variations": [
+  "forms": [
     {
-      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
-      "aspects": [
-        "",
-        "aurora"
-      ]
+      "displayForm": "Aurora",
+      "unlockForms": ["Aurora"]
     }
   ]
 }
