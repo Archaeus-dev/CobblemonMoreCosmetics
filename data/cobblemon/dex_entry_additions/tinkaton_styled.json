@@ -2,9 +2,9 @@
   "entryId": "cobblemon:tinkaton",
   "variations": [
     {
-        "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
+      "icon": "cobblemon:textures/gui/pokedex/variation/outfit.png",
       "aspects": [
-          "",
+        "",
         "eternal"
       ]
     }
